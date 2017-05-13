@@ -1,0 +1,14 @@
+
+  |====|================|===============|==============|==============|=============|=============|
+  |====|================|===============|==============|==============|=============|=============|
+
+  /\/|${AnsiColor.BRIGHT_BLUE}     _____                 _   ${AnsiColor.BRIGHT_BLUE}   _____                              _   ${AnsiColor.WHITE}  /\/|
+ |/\/ ${AnsiColor.BRIGHT_BLUE}    / ____|               | |  ${AnsiColor.BRIGHT_BLUE}  / ____|                            | |  ${AnsiColor.WHITE} |/\/ 
+      ${AnsiColor.BRIGHT_BLUE}   | |        ___    ___  | |_ ${AnsiColor.BRIGHT_BLUE} | |  __    __ _   _   _   _ __    __| |  ${AnsiColor.WHITE}      
+      ${AnsiColor.BRIGHT_BLUE}   | |       / _ \  / __| | __|${AnsiColor.BRIGHT_BLUE} | | |_ |  / _` | | | | | | '__|  / _` |  ${AnsiColor.WHITE}      
+      ${AnsiColor.BRIGHT_BLUE}   | |____  | (_) | \__ \ | |_ ${AnsiColor.BRIGHT_BLUE} | |__| | | (_| | | |_| | | |    | (_| |  ${AnsiColor.WHITE}      
+      ${AnsiColor.BRIGHT_BLUE}    \_____|  \___/  |___/  \__|${AnsiColor.BRIGHT_BLUE}  \_____|  \__,_|  \__,_| |_|     \__,_|  ${AnsiColor.WHITE}      
+
+  |====|================|===============|==============|==============|=============|=============| 
+                                 :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
+  |====|================|===============|==============|==============|=============|=============|

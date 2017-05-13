@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=com.costgaurd.techs.base -DarchetypeArtifactId=springboot-service-generator -DarchetypeVersion=1.0-SNAPSHOT -DinteractiveMode=true
